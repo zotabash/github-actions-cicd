@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-"scripts": {
-  "test": "echo \"Tests passed\""
-}
+  "scripts": {
+    "test": "echo \"Tests passed\""
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
